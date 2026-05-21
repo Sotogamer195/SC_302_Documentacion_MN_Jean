@@ -1,6 +1,3 @@
-# SC\_302\_Documentacion\_MN\_Jean
+# SC_302_Documentacion_MN_Jean
 
-
-
-Esta es mi primera práctica con Github
-
+Esta es mi primera práctica con Github.
